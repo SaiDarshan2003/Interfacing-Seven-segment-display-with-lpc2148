@@ -87,3 +87,6 @@ int main(void)
 LED seven segment display is interfaced and displayed alpha numeric characters 
 
 ##  Output screen shots :
+![inp](1.png)
+![inp](2.png)
+![inp](3.png)
